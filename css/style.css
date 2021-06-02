@@ -1616,7 +1616,6 @@ body.ie ._ibg img {
 
 .content-dreams-info__btn {
   padding: 0px 0px 30px 0px;
-  text-align: center;
 }
 
 .four {
@@ -2764,6 +2763,10 @@ body.ie ._ibg img {
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
+    text-align: center;
+  }
+
+  .content-dreams-info__btn {
     text-align: center;
   }
 
