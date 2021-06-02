@@ -1739,7 +1739,7 @@ body.ie ._ibg img {
 
 .img-four-abs__love {
   position: absolute;
-  left: -20%;
+  left: -45%;
   top: 15%;
 }
 
@@ -2022,10 +2022,8 @@ body.ie ._ibg img {
     display: none;
   }
 
-  .content-dreams-info__text {
-    padding: 0px 0px 20px 0px;
-    max-width: 228px;
-    margin: 0px auto;
+  .content-dreams-info__btn {
+    text-align: center;
   }
 
   .four__content {
@@ -2722,6 +2720,9 @@ body.ie ._ibg img {
     font-size: 12px;
     line-height: 16px;
     text-align: center;
+    padding: 0px 0px 20px 0px;
+    max-width: 228px;
+    margin: 0px auto;
   }
 
   .content-dreams-info__subtext {
@@ -2763,10 +2764,6 @@ body.ie ._ibg img {
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
-    text-align: center;
-  }
-
-  .content-dreams-info__btn {
     text-align: center;
   }
 
